@@ -26,7 +26,7 @@ public class main_1 {
                 if (i < 26) {
                     System.out.println((char) (97 + i) + ":" + count[i]);
                 } else {
-                    System.out.println((char) (65 + i) + ":" + count[i]);
+                    System.out.println((char) (65 + i -26) + ":" + count[i]);
                 }
             }
         }
