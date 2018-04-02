@@ -27,7 +27,7 @@ public class main_2 {
                     }
                 }
             }
-            System.out.print(data[0][i] + "\t");
+            System.out.print(data[0][i] + " ");
         }
         System.out.println();
     }
